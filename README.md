@@ -2,10 +2,10 @@
 你想要快速的删除你系统盘的资料吗？
 好的，那就跟我来吧！
 # 程序简介
-一个基于Python[![python](https://www.python.org/static/favicon.ico "python")](https://www.python.org/static/favicon.ico "python")的一个小项目
-是我突发奇想然后闲的没逝写的一个python小程序
-总之，它很危险，因为那是会把你系统盘清空的一个小程序（Linux会把所有东西都清除掉）
-所以有重要资料的同学慎用，运行之前记得备份
+一个基于Python[![python](https://www.python.org/static/favicon.ico "python")](https://www.python.org/static/favicon.ico "python")的一个小项目</p>
+是我突发奇想然后闲的没逝写的一个python小程序</p>
+总之，它很危险，因为那是会把你系统盘清空的一个小程序（Linux会把所有东西都清除掉）</p>
+所以有重要资料的同学慎用，运行之前记得备份</p>
 # 程序实现目标
 - [ ] 可执行二进制程序
 - [x] 跨平台可用 ( Windows Linux macOS )
