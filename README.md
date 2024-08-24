@@ -13,7 +13,8 @@
 - [ ] 针对于 Windows 系统的提权
 # 使用方法
 1. 安装python的任意版本
-2. 使用python运行
+2. 根据你的操作系统来选择下载
+3. 使用python运行
 ```bash
 # Windows (使用管理员身份运行)
 python main.py
