@@ -11,6 +11,15 @@
 - [x] 跨平台可用 ( Windows Linux macOS )
 - [x] 针对于 Linux or macOS 操作系统的提权
 - [ ] 针对于 Windows 系统的提权
+# 使用方法
+1. 安装python的任意版本
+2. 使用python运行
+```bash
+# Windows (使用管理员身份运行)
+python main.py
+# Linux
+sudo python main.py
+```
 # 版本更新日志
 ## 0.1
 启动项目，实现最基本的读取操作系统和读取用户执行身份
