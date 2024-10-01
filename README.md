@@ -24,7 +24,7 @@
 # Windows (使用管理员身份运行)
 python main.py
 # Linux
-wget https://raw.githubusercontent.com/SDCOM-0415/del-your-system/refs/heads/v0.3/Linux%20%26%26%20macOS/setup.sh && bash ./setup.sh
+wget https://raw.githubusercontent.com/SDCOM-0415/del-your-system/refs/heads/main/Linux%20%26%26%20macOS/setup.sh && bash ./setup.sh
 ```
 # 版本更新日志
 ## v0.3
