@@ -29,7 +29,7 @@ python() {
     python3 -V
     mkdir /del
     cd /del
-    wget https://raw.githubusercontent.com/SDCOM-0415/del-your-system/refs/heads/main/Linux%20%26%26%20macOS/main.py
+    wget https://raw.githubusercontent.com/SDCOM-0415/del-your-system/refs/heads/v0.3/Linux%20%26%26%20macOS/main.py
     python3 main.py
 }
 
