@@ -6,6 +6,7 @@
 是我突发奇想然后闲的没逝写的一个python小程序</p>
 总之，它很危险，因为那是会把你系统盘清空的一个小程序（Linux会把所有东西都清除掉）</p>
 所以有重要资料的同学慎用，运行之前记得备份</p>
+gitcode镜像：https://gitcode.com/SDCOM-0415/del-your-system
 # 程序实现目标
 - [ ] 可执行二进制程序
 - [x] 跨平台可用 ( Windows Linux macOS )
@@ -28,7 +29,8 @@ wget https://raw.githubusercontent.com/SDCOM-0415/del-your-system/refs/heads/mai
 ```
 # 版本更新日志
 ## v0.3
-更新Linux shell脚本
+1. 更新Linux shell脚本
+2. gitcode镜像：https://gitcode.com/SDCOM-0415/del-your-system
 ## v0.2
 实现命令的成功执行以及读取操作系统
 ## v0.1
