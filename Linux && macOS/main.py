@@ -13,6 +13,11 @@ Github: https://github.com/SDCOM-0415
 TG群组: https://t.me/SDCOM_HOME
 """)
 
+# GitHub项目信息
+print("""项目地址: https://github.com/SDCOM-0415/del-your-system
+本次版本更新时间: 2024.8.31-2024.10.1
+""")
+
 # 程序说明
 print("本程序为快速删除系统程序, 使用之前请仔细阅读说明.")
 print("""
@@ -23,7 +28,7 @@ print("""
 """)
 
 # 程序版本输出
-print("程序版本:0.2 for Linux && macOS")
+print("程序版本:0.3 for Linux && macOS")
 
 # 检测操作系统类型
 system_type = platform.system()
