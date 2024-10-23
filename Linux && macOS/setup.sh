@@ -5,7 +5,7 @@
 # 使用lsb_release命令获取发行版本信息
 # 如果命令不存在，则使用/etc/os-release文件获取信息
 
-echo "适用于v0.3版本"
+echo "适用于v0.4 linux版本"
 
 detect_os() {
     if command -v lsb_release >/dev/null 2>&1; then
