@@ -9,14 +9,14 @@ print("""作者: SDCOM
 邮箱: sdcom@sdcom.asia
 QQ: 3243756665
 Github: https://github.com/SDCOM-0415
+cnb.cool:https://cnb.cool/u/SDCOM/
 推特: @SDCOM0415
 TG群组: https://t.me/SDCOM_HOME
 """)
 
 # GitHub项目信息
 print("""Gihub项目地址: https://github.com/SDCOM-0415/del-your-system
-Gitcode项目地址: https://gitcode.com/SDCOM-0415/del-your-system
-本次版本更新时间: 2024.8.31-2024.10.1
+本次版本更新时间: 2024.10.23-
 """)
 
 # 程序说明
@@ -29,7 +29,7 @@ print("""
 """)
 
 # 程序版本输出
-print("程序版本:0.3 for Windows")
+print("程序版本:0.4 for Windows")
 
 # 检测操作系统类型
 system_type = platform.system()
